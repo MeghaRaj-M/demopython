@@ -1,0 +1,15 @@
+.banner{
+      background-color:peachpuff;
+      width:110%;
+      height:150px;
+      margin-bottom:50px
+}
+
+.banner-text{
+
+      left:40%;
+      bottom:50%;
+      position:absolute;
+      transform:transform;
+      shadow card;
+}
